@@ -46,6 +46,8 @@ flowchart LR
 ✅ Each client gets exactly what it needs · Owned by the client's team
 ❌ More things to run · Some duplicated logic
 
+MyQuestions: What's the difference between BFF and just routing the client request direct to the service since the BFF is now implemented per service
+
 **Visual:**
 
 ```mermaid

@@ -42,4 +42,4 @@
 - Quick intro: "I'm David, a backend engineer at CentricAI. I've spent most of the last seven years building APIs and backend systems, many of them as microservices on AWS and Azure."
 - Why this topic: "In almost every microservices system I've worked on, the gateway was either the thing that made life easy or the thing everyone complained about. The difference was almost always design, not the tool."
 - Walk the agenda: "We start with *why* you need a gateway, then *what* it should do, then the main *patterns* for structuring it, the *decisions* you'll have to make, the *pitfalls*, and finally we put it all together with MyFood on Azure."
-- Set expectations: "No live demo today, but you'll see diagrams and real screenshots from Azure API Management. Hold questions to the end; we'll have about five minutes."
+- Set expectations:  you'll see diagrams and real screenshots from Azure API Management. Hold questions to the end; we'll have about five minutes."
